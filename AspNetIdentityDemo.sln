@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebIdentityDemoV2.0", "上篇\WebIdentityDemoV2.0\WebIdentityDemoV2.0.csproj", "{7E23BBD5-4E0A-4E24-A24D-A20859A27393}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebIdentityDemoV3.1", "上篇\WebIdentityDemoV3.1\WebIdentityDemoV3.1.csproj", "{2F3B1396-E934-4E78-BABF-31911190BD5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "上篇", "上篇", "{D9CE2FD0-B217-43B5-918D-AB0CBF1403FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E23BBD5-4E0A-4E24-A24D-A20859A27393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E23BBD5-4E0A-4E24-A24D-A20859A27393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E23BBD5-4E0A-4E24-A24D-A20859A27393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E23BBD5-4E0A-4E24-A24D-A20859A27393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F3B1396-E934-4E78-BABF-31911190BD5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3B1396-E934-4E78-BABF-31911190BD5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3B1396-E934-4E78-BABF-31911190BD5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3B1396-E934-4E78-BABF-31911190BD5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7E23BBD5-4E0A-4E24-A24D-A20859A27393} = {D9CE2FD0-B217-43B5-918D-AB0CBF1403FC}
+		{2F3B1396-E934-4E78-BABF-31911190BD5C} = {D9CE2FD0-B217-43B5-918D-AB0CBF1403FC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9146A92B-8A60-42AB-A751-974FF6101837}
+	EndGlobalSection
+EndGlobal
