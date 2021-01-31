@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "WebIdentityDemoV3._1": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:65208",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
